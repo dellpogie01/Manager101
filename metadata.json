@@ -1,0 +1,6 @@
+{
+  "name": "Manager 101",
+  "description": "Management Models and Leadership Frameworks Reference Guide",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
